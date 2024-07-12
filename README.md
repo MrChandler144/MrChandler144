@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @MrChandler144
-- 👀 I’m interested in maths, physics, aerospace, robotics and debating
-- 🌱 I’m currently a student at the University of Auckland studying Mechatronics Engineering and Economics for a BCom/BE(Hons) degree
-- 🧰 I have experience in C, C#, C++, and MATLAB; and can work effectively in team-based environments
+- 👀 I’m interested in physics, maths, aerospace, software, and debating
+- 🌱 I’m currently studying Mechatronics Engineering and Economics as part of a BCom/BE(Hons) degree at the University of Auckland
+- 🎨 I have experience in C, C#, C++, Python, and MATLAB
 - 🎮 I am a hobbyist game developer; find some of my published work at https://mrcandela.itch.io/
-- 💞️ I’m looking to gains skills and experience that I can use to help make the world a better place
+- 🤝 I enjoy technical challenges and can work effectively in team-based environments
+- 💞️ I’m looking to gain skills and experience that I can use to help make the world a better place
 - 📫 You can contact me at mrchandler144@gmail.com
 
 <!---
