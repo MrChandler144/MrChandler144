@@ -5,7 +5,6 @@
 - 🎮 I am a hobbyist game developer; find some of my published work at https://mrcandela.itch.io/
 - 🤝 I enjoy technical challenges and can work effectively in team-based environments
 - 💞️ I’m looking to gain skills and experience that I can use to help make the world a better place
-- 📫 You can contact me at mrchandler144@gmail.com
 
 <!---
 MrChandler144/MrChandler144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
